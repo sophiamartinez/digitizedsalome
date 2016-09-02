@@ -1,11 +1,8 @@
-# Ed: A Jekyll Theme for Minimal Editions
+# Simple Ed Install
 
-[![Build Status](https://travis-ci.org/elotroalex/ed.svg?branch=gh-pages)](https://travis-ci.org/elotroalex/ed)
+This is a fork of [elotroalex's](https://github.com/elotroalex) [Ed](https://github.com/elotroalex/ed) package that removes the confusion of having the source code stored in the `master` branch *and* the deployed site in the `gh-pages` branch. 
 
-
-![Sample Ed screenshot](https://github.com/elotroalex/ed/blob/master/assets/screenshot.png)
-
-
+There is nothing in `master`. To start building your Ed site, switch to the `gh-pages` branch.
 
 ## Introduction
 
