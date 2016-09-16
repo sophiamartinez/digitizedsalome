@@ -11,39 +11,39 @@ source: "add works cited entry"
 **THE YOUNG SYRIAN**
 How beautiful is the Princess Salome to-night!
 
-###### THE PAGE OF HERODIAS
+**THE PAGE OF HERODIAS**
 Look at the moon. How strange the moon seems! She is like a woman rising from a tomb. She is like a dead woman. One might fancy she was looking for dead things.
 
-###### THE YOUNG SYRIAN
+**THE YOUNG SYRIAN**
 She has a strange look. She is like a little princess who wears a yellow veil, and whose feet are of silver. She is like a princess who has little white doves for feet. One might fancy she was dancing.
 
 1
 
-###### THE PAGE OF HERODIAS
+**THE PAGE OF HERODIAS**
 She is like a woman who is dead. She moves
 very slowly.
 *[Noise in the banqueting-hall]*
 
-###### FIRST SOLDIER
+**FIRST SOLDIER**
 What an uproar! Who are those wild beasts
 howling?
 
-###### SECOND SOLDIER
+**SECOND SOLDIER**
 The Jews. They are always like that. The are disputing about their religion.
 
-###### FIRST SOLDIER
+**FIRST SOLDIER**
 Why do they dispute about their religion?
 
-###### SECOND SOLDIER
+**SECOND SOLDIER**
 I cannot tell. They are always doing it. Pharisees, for instance, say that there are angels, and the Sadducees declare that angels do not exist.
 
-###### FIRST SOLDIER
+**FIRST SOLDIER**
 I think it is ridiculous to dispute about such things.
 
-###### THE YOUNG SYRIAN
+**THE YOUNG SYRIAN**
 How beautiful is the Princess Salome to-night!
 
-###### THE PAGE OF HERODIAS
+**THE PAGE OF HERODIAS**
 You are always looking at her. You look at
 
 2
