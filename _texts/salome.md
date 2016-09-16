@@ -6,11 +6,9 @@ publication-date: YYYY
 source: "add works cited entry"
 ---
 
-# *SALOME*
-
 >SCENE- A great terrace in the Palace of Herod, set above the banqueting-hall. Some soldiers are leaning over the balcony. To the right there is a gigantic staircase, to the left, at the back, an old cistern surrounded by a wall of green bronze. The moon is shining very brightly.
 
-###### THE YOUNG SYRIAN
+**THE YOUNG SYRIAN**
 How beautiful is the Princess Salome to-night!
 
 ###### THE PAGE OF HERODIAS
