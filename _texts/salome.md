@@ -10,7 +10,7 @@ source: "add works cited entry"
 
 **THE YOUNG SYRIAN**
 
-{:.indent-3}How beautiful is the Princess Salome to-night!
+{:.indent-3} How beautiful is the Princess Salome to-night!
 
 **THE PAGE OF HERODIAS**
 Look at the moon. How strange the moon seems! She is like a woman rising from a tomb. She is like a dead woman. One might fancy she was looking for dead things.
