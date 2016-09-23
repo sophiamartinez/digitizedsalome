@@ -3,14 +3,14 @@ layout: drama
 title: Salome
 author: Oscar Wilde
 publication-date: 1967
-source: "add works cited entry"
+source: Wilde, Oscar. Salome. Trans. Lord Alfred Douglas. Illus. Aubrey Beardsley. Dover, NY, 1967.
 ---
 
 >SCENE- A great terrace in the Palace of Herod, set above the banqueting-hall. Some soldiers are leaning over the balcony. To the right there is a gigantic staircase, to the left, at the back, an old cistern surrounded by a wall of green bronze. The moon is shining very brightly.
 
 **THE YOUNG SYRIAN**
 
-- {:.indent-3}How beautiful is the Princess Salome to-night!
+ {:.indent-3}How beautiful is the Princess Salome to-night!
 
 **THE PAGE OF HERODIAS**
 Look at the moon. How strange the moon seems! She is like a woman rising from a tomb. She is like a dead woman. One might fancy she was looking for dead things.
