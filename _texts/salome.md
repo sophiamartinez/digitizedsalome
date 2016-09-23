@@ -2,7 +2,7 @@
 layout: drama
 title: Salome
 author: Oscar Wilde
-publication-date: YYYY
+publication-date: 1967
 source: "add works cited entry"
 ---
 
